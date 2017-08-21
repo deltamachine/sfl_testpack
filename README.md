@@ -1,5 +1,5 @@
 Shallow syntactic function labeller
-=====================
+===================================
 
 This is Google Summer of Code 2017 project for Apertium.
 
@@ -31,7 +31,7 @@ $ cd sfl_testpack
 
 Script _setup.py_ adds all the needed files in language pair directory and changes all files with modes.
 
-#### Arguments: ###
+###### Arguments:
 
 * _work_mode_: **-lb** for installing the labeller and changing modes, **-cg** for backwarding changes and using the original syntax module (sme-nob.syn.rlx.bin or kmr-eng.prob) in the pipeline.
 * _lang_: **-sme** for installing/uninstalling the labeller only for sme-nob, **-kmr** - only for kmr-eng, **-all** - for both.
