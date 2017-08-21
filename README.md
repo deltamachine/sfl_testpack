@@ -33,8 +33,8 @@ Script setup.py adds all the needed files in language pair directory and changes
 
 #### Arguments: ###
 
-* work_mode: -lb for installing the labeller and changing modes, -cg for backwarding changes and using the original syntax module (sme-nob.syn.rlx.bin or kmr-eng.prob) in the pipeline.
-* lang: -sme for installing/uninstalling the labeller only for sme-nob, -kmr - only for kmr-eng, -all - for both.
+* _work_mode_: **-lb** for installing the labeller and changing modes, **-cg** for backwarding changes and using the original syntax module (sme-nob.syn.rlx.bin or kmr-eng.prob) in the pipeline.
+* _lang_: **-sme** for installing/uninstalling the labeller only for sme-nob, **-kmr** - only for kmr-eng, **-all** - for both.
 
 For example, this script will install the labeller and add it to the pipeline for both pairs:
 
