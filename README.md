@@ -29,7 +29,7 @@ $ git clone https://github.com/deltamachine/sfl_testpack.git
 $ cd sfl_testpack
 ```
 
-Script setup.py adds all the needed files in language pair directory and changes all files with modes.
+Script _setup.py_ adds all the needed files in language pair directory and changes all files with modes.
 
 #### Arguments: ###
 
